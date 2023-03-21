@@ -3,7 +3,13 @@
 Performing analysis on Kickstarter data to uncover trends.
 
 ### Purpose
-This excel project was created to assist Louise in analyzing the kickstarter data to see how different campaigns fared in relation to their launch dates and their funding goals. Data analysis on several thousand crowdfunding projects was conducted to uncover hidden trends. Analysis was performed on the data provided to show trends and correlations to best help Louise understand the relationship between succesful kickstarters and different factors.
+
+This excel project was created to assist Louise (an upcoming playright) in analyzing the kickstarter data to see how different campaigns fared in relation to their launch dates and their funding goals. Data analysis on several thousand crowdfunding projects was conducted to uncover hidden trends.
+
+Estimated a budget of $10,000
+
+
+Analysis was performed on the data provided to show trends and correlations to best help Louise understand the relationship between successful kickstarters and to set up her own campaign for success.
 
 ## Analysis and Challenges
 
