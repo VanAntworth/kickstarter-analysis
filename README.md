@@ -8,11 +8,9 @@ This excel project was created to assist Louise (an upcoming playright) in analy
 
 Estimated a budget of $10,000
 
-Data was collected from the past crowdfunding projects from 2009 to 2017, in various categories as theater,food,music etc. By analyzing this data we will gain insights as to how the various campaigns fared in relation to their funding goals, launch dates etc. For this purpose I am using MS Excel and will build my analysis using pivot charts and tables, conditional formatting, VLOOKUP, CountIFs and other excel formulas.
+Data was collected from the past crowdfunding projects from 2009 to 2017, in various categories as theater,food,music etc. 
+By analyzing this data I will assist Louise in finding insights as to how the various campaigns fared in relation to their funding goals, launch dates etc. For this purpose I am using MS Excel and will build my analysis using pivot charts and tables, conditional formatting, VLOOKUP, CountIFs and other excel formulas.
 
-
-
-Analysis was performed on the data provided to show trends and correlations to best help Louise understand the relationship between successful kickstarters and to set up her own campaign for success.
 
 ## Analysis and Challenges
 
